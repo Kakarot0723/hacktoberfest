@@ -23,7 +23,7 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
-#### Name: [ANJALI](https://github.com/Kakarot0723)
+#### Name: [Pulkit](https://github.com/Kakarot0723)
  - Place: Punjab, India
  - Bio: Student
  - GitHub: [Kakarot0723](https://github.com/Kakarot0723)
