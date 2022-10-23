@@ -23,10 +23,10 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
-#### Name: [ANJALI](https://github.com/bansalanjali2512)
- - Place: Delhi, India
+#### Name: [ANJALI](https://github.com/Kakarot0723)
+ - Place: Punjab, India
  - Bio: Student
- - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+ - GitHub: [Kakarot0723](https://github.com/Kakarot0723)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
@@ -94,6 +94,11 @@
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 
 #### Name: [Ahmad Thames](https://github.com/ahmadthames)
+- Place: Houston, TX, USA
+- Bio: UX Engineer, Traveler, Plant-Based Foodie
+- GitHub: [ahmadthames](https://github.com/ahmadthames)
+
+#### Name: [Ahmad Thames]()
 - Place: Houston, TX, USA
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
 - GitHub: [ahmadthames](https://github.com/ahmadthames)
